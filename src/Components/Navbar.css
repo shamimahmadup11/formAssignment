@@ -1,0 +1,27 @@
+.navbar{
+    background-color: rgb(46, 45, 45);
+    color: white;
+}
+.navbarItems{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.subnavbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgb(46, 45, 45);
+    color: white;
+
+}
+.button{
+    background-color: blue;
+    border-radius: 4px;
+    padding: 8px 10px ;
+    color: white;
+    cursor: pointer;
+
+}
